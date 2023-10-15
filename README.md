@@ -26,12 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
+![mobile](https://github.com/obaloluwaobi/-Product-preview-card-component/assets/101903208/5b885e08-20cd-4884-abf2-dc75e4f970e3)
 
+![Desktop2](https://github.com/obaloluwaobi/-Product-preview-card-component/assets/101903208/76419147-6d31-454f-bee1-239ab6d7d099)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([https://your-live-site-url.com](https://obaloluwaobi.github.io/-Product-preview-card-component/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-using-tailwindcss-l4FF_4DRmx)
+- Live Site URL:[Live Site URL] (https://your-live-site-url.com](https://obaloluwaobi.github.io/-Product-preview-card-component/)
 
 ## My process
 
