@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  
+    <title>Frontend Mentor | Product preview card component</title>
+    <link rel="stylesheet" href="dist/output.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body class="bg-Cream flex flex-col justify-center items-center my-36  max-sm:justify-center max-sm:m-0">
+   <div class="flex  bg-white rounded-xl shadow-lg max-sm:block max-sm:m-5">
+     <img class="h-96 rounded-l-xl max-sm:hidden" src="images/image-product-desktop.jpg" alt="image-product-desktop">
+    <img src="images/image-product-mobile.jpg" alt="image-product-mobile" class="hidden  max-sm:block max-sm:rounded-t-xl">
+    <div class="pt-7 pr-10 pl-10 max-sm:flex max-sm:flex-col max-sm: m-0 max-sm:justify-center max-sm:pb-6">
+        <p class="mb-3 text-Darkgrayishblue leading-tight -tracking-tightest uppercase"> Perfume</p>
+        
+        <h2 class="font-extrabold text-3xl font-Franuces leading-none  mb-3 max-sm:hidden"> Gabrielle <br>Essence Eau <br> De Parfum
+</h2>
+<h2 class="font-extrabold text-3xl  font-Franuces leading-none  mb-3 hidden max-sm:block"> Gabrielle Essence <br> Eau  De Parfum
+</h2>
+            <h3 class="font-normal leading-6 mb-4 text-Darkgrayishblue max-sm:hidden">A floral, solar and voluptuous <br> interpretation composed by <br> Olivier Polge, 
+             Perfumer-Creator <br> for the House of CHANEL.
+    </h3>
+
+    <h3 class="hidden max-sm:block font-normal leading-6 mb-4 text-Darkgrayishblue">A floral, solar and voluptuous <br> interpretation composed by  Olivier<br> Polge, 
+        Perfumer-Creator for the House of CHANEL.
+      </h3>
+             
+        <div class="flex items-center mb-3">
+            <p class="text-Darkcyan text-4xl font-bold font-Franuces pr-2">$149.99</p>
+            <p class=" ml-3 line-through leading-tight font-normal text-Darkgrayishblue te text-xs font-Montserrat">$169.99</p>
+        </div>
+        <button class="bg-Darkcyan flex justify-center items-center px-16 py-3 rounded-lg space-x-1 hover:bg-green-900 ">
+            <img src="images/icon-cart.svg" alt="">
+            <p class="text-sm text-white font-bold font-Montserrat"> Add to Cart</p>
+        </button>
+    </div>
+
+   </div>
+  
+   <footer class="my-10 font-Montserrat">
+    <p> Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" class="text-yellow-500">Frontend Mentor</a>. </p>
+   <p>    Coded by <a href="https://twitter.com/oba_obidoyin" class="text-yellow-600">Obidoyin Obaloluwa</a>.</p>
+   </footer>
+
+</body>
+</html>
