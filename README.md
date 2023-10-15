@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-using-tailwindcss-l4FF_4DRmx)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com](https://obaloluwaobi.github.io/-Product-preview-card-component/)
+- Live Site URL: [Live Site URL](https://obaloluwaobi.github.io/-Product-preview-card-component/)
 
 ## My process
 
